@@ -1,0 +1,1 @@
+# Umbra Landing Fresh\n\nSimple React+Vite+Tailwind landing page with waitlist form.\n\nRun locally:\n```bash\nnpm install\nnpm run dev\n```\n\nDeploy easily on Vercel/Netlify.
